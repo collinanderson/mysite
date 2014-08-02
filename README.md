@@ -1,0 +1,4 @@
+mysite
+======
+
+django tutorial project
